@@ -1,0 +1,6 @@
+Devops allows development team (Dev) and operations department/function (Ops) to
+work together in al stages of software development.
+
+-increased efficiency
+-improve speed
+-Improved flexibility
