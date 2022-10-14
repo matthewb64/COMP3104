@@ -1,0 +1,3 @@
+DevOps is a combination of two words, namely Development and Operations.
+The ultimate goal of DevOps is to decrease the duration of the system’s 
+development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.
